@@ -1,6 +1,6 @@
 {
-  "short_name": "JGD",
-  "name": "Jurnal Guru Digital V1",
+  "short_name": "JGDv1",
+  "name": "Jurnal Guru Digital v1",
   "icons": [
     {
       "src": "/launchericon-192x192.png",
@@ -8,7 +8,7 @@
       "type": "image/png"
     },
     {
-      "src": "/favicon-512x512.png",
+      "src": "/launchericon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
