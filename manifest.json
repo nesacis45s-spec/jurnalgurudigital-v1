@@ -1,13 +1,20 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "short_name": "JGD",
+  "name": "Jurnal Guru Digital V1",
+  "icons": [
+    {
+      "src": "/launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
   "display": "standalone",
-  "name": "Jurnal Guru Digital",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Jurnal Guru Digital",
-  "start_url": "https://nesacis45s-spec.github.io/jurnalgurudigital-v1/",
-  "theme_color": "#ffffff",
-  "id": "jgd-v1",
-  "lang": "id"
+  "theme_color": "black",
+  "background_color": "white"
 }
